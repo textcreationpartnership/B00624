@@ -1,0 +1,1753 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gamēlia on the happy marriage of the most accomplished paire, H.R. Esq. and the vertuous A.B.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00624</idno>
+            <idno type="STC">STC 21179</idno>
+            <idno type="STC">ESTC S123263</idno>
+            <idno type="EEBO-CITATION">44920406</idno>
+            <idno type="OCLC">ocm 44920406</idno>
+            <idno type="VID">173853</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00624)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173853)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2102:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gamēlia on the happy marriage of the most accomplished paire, H.R. Esq. and the vertuous A.B.</title>
+                  <author>Rogers, Hugh, Esq.</author>
+                  <author>Baynton, Anne.</author>
+               </titleStmt>
+               <extent>1 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by L.L.,</publisher>
+                  <pubPlace>Oxford, :</pubPlace>
+                  <date>An. Dom. 1640.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Poems in English and Latin, signed with various initials.</note>
+                  <note>Title printed in Greek characters.</note>
+                  <note>In ms. on t.p.: Hugh Rogers, Anne Baynton.</note>
+                  <note>Signatures: A-F⁴ (F₄ blank).</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marriage --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173853:1" rendition="simple:additions"/>
+            <pb facs="tcp:173853:2"/>
+            <pb facs="tcp:173853:2"/>
+            <p>ΓΑΜΗΛΙΑ On the happy marriage of the moſt <hi>accompliſhed paire,</hi> H. R. <abbr>
+                  <hi>Eſq</hi>
+               </abbr> And the vertuous <hi>A. B.</hi>
+            </p>
+            <figure>
+               <head>ACADEMIA: OXONIENSIS:</head>
+               <p>Christus: Lucrum</p>
+               <p>Veritas in Profundo:</p>
+               <p>
+                  <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>
+               </p>
+            </figure>
+            <p>
+               <hi>OXFORD,</hi> Printed by L. L. AN. DOM. 1640.</p>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="lat" type="poem">
+            <pb facs="tcp:173853:3"/>
+            <pb n="1" facs="tcp:173853:3" rendition="simple:additions"/>
+            <head>AD SPONSVM AEDES <hi>Brumhamianas</hi> primò inviſentem.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">S</seg>Iſte gradum, quavis Juvenis dignisſime formâ,</l>
+               <l>Haec ſtatio erranti eſt placidisſima; pectoris aeſtu<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>Hic relevare potes, nec pulchri indagine vultûs</l>
+               <l>Per varios migres agros, variaſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> per urbes.</l>
+               <l>Occupet ignarum forſan <hi>Brumhamia;</hi> in illis</l>
+               <l>Aedibus alma Venus poſuere &amp; caſtra Cupido.</l>
+               <l>Hoſpitium praedulce Deae peregrine ſubito,</l>
+               <l>Saucius exibis: Nam quos non vulnerat <hi>Anna</hi>
+               </l>
+               <l>Sanguinis antiqui <hi>Bayntonia!</hi> dives avorum,</l>
+               <l>Et decor ipſa ſuis, cunctis praelata puellis;</l>
+               <l>Et formâ praeſtans, &amp; primis nubilis annis.</l>
+               <l>Huic ſimilem quondam ſervavit ahenea turris,</l>
+               <l>Aethere cui puro deſcendit plurimus auro</l>
+               <l>Jupiter, &amp; fulvus pro munere depluit imber.</l>
+               <l>Pro love munus erat; plus noſtrâ elucet in <hi>Annâ;</hi>
+               </l>
+               <l>Plus pro dote feret; ſiquidem ſupereminet omnes</l>
+               <l>Virgineus pudor &amp; divina modeſtia dotes.</l>
+               <l>Vreris infaelix? Age, divam ambito puellam,</l>
+               <pb n="2" facs="tcp:173853:4" rendition="simple:additions"/>
+               <l>(Non benè conveniunt aeſtus in amante, pudorque)</l>
+               <l>Baſia, ſtulte, petas; nec tantum baſia proſunt,</l>
+               <l>Quantum ſola nocent. Peragat facundia cauſam.</l>
+               <l>Quam non ſuaſit Amor, fervens &amp; pectoris ardor?</l>
+            </lg>
+            <lg>
+               <l>Diva Venus, Veneriſque leves faveatis Amores.</l>
+               <l>Tu quoque caſta licet, noli moroſa videri,</l>
+               <l>Et cave ne renuas ſortem, quam fata benignam</l>
+               <l>Inſolitò miſêre: vagae quot rure puellae,</l>
+               <l>Jllius (heu!) cupidae quot ſperant baſia matres</l>
+               <l>Virginibus ceſſura ſuis! Tibi fata dederunt,</l>
+               <l>Quae reliquis inimica negant; quos ſola recuſas</l>
+               <l>Quâlibet amplexus emiſſent arte puellae.</l>
+               <l>Ne te difficilem praebe; vix dignior illo</l>
+               <l>Quiſquam nocte tuâ eſt, nuptae thalamoque pudico.</l>
+            </lg>
+            <lg>
+               <l>Vicimus, ô Juvenes, laetas Hymenaeus ad aures</l>
+               <l>Fertur, &amp; inſignis patitur <hi>Bayntonia</hi> vinci,</l>
+               <l>Dat quoque victa manum, Veneris jam foedere gaudens.</l>
+               <l>Oſcula nunc repetas pulchris ſignata labellis,</l>
+               <l>Oſcula blanda dabit, nec quaeras oſcula tantùm:</l>
+               <l>Virginitas jam tota tua eſt, cùm Cynthia noctem</l>
+               <l>Speratam tulerit, Sol &amp; ſe merſerit undis.</l>
+               <l>Phaebus abit; Properes, &amp; dulcia bella capeſſas,</l>
+               <l>Collectumque diù cupidus largire vigorem.</l>
+            </lg>
+            <closer>
+               <signed>J. E.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="3" facs="tcp:173853:4" rendition="simple:additions"/>
+            <head>To the happy Bride-groome.</head>
+            <l>WHileſt we, faire Sir, approaching Winter moane,</l>
+            <l>And grieve to ſee our <hi>May</hi> and <hi>Iuly</hi> gone:</l>
+            <l>Theſe gentler Moneths conſpire to crowne your fate:</l>
+            <l>And with joyn'd temper ſtill attend your ſtate.</l>
+            <l>Hee that enjoyes a Paradiſe, which yeelds</l>
+            <l>The Pride of Gardens, flowry Lawnes, and Fields;</l>
+            <l>Chang'd ſeaſons cannot feele: to him the yeare</l>
+            <l>'Twixt ſpring and ſummer doth throughout appeare.</l>
+         </div>
+         <div type="poem">
+            <head>To the moſt vertuous Bride A. B.</head>
+            <l>
+               <hi>The Paths of Love are plaine; and we his Darte</hi>
+            </l>
+            <l>
+               <hi>Can trace, when it wounds but a common heart.</hi>
+            </l>
+            <l>
+               <hi>In you, faire Spouſe, the winged Deity</hi>
+            </l>
+            <l>
+               <hi>Is Knots and Charmes, Riddle, and Myſtery.</hi>
+            </l>
+            <l n="1">1 <hi>Tell me,</hi> Before what pearled row</l>
+            <l>Ripe Cherries doe in Autumne grow?</l>
+            <l n="2">2 What earthly Glories, ſcatter'd raies</l>
+            <l>Excell Apollo's haire and Bayes?</l>
+            <l n="3">3 What Climate in the North breaths forth</l>
+            <l>Aires, then the Eaſterne beds more worth?</l>
+            <l n="4">
+               <pb n="4" facs="tcp:173853:5" rendition="simple:additions"/>4 What twin-like ſtarres below doe prove</l>
+            <l>Light and eclipſe to thoſe above?</l>
+            <l n="5">5 What Snow is that, which is both flame</l>
+            <l>And froſt to him that courts the ſame?</l>
+            <l n="6">6 What chaſt coole Ice hath heate ſo much,</l>
+            <l>To melt th'embracer with its touch?</l>
+            <l n="7">7 What Sun is that, which riſen benights</l>
+            <l>Freſh Summer, ſet breeds his delights.</l>
+            <l>
+               <hi>Would You unriddle theſe? in order ſet</hi>
+            </l>
+            <l>
+               <hi>The two firſt letters of the Alphabet.</hi>
+            </l>
+            <closer>
+               <signed>T. F.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>EN En ſtellato fulgens Venus aurea coelo</l>
+               <l>Praeludit Thalamis; &amp; multis lucida flammis,</l>
+               <l>Fauſtas promittit taedas noctem<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> benignam.</l>
+               <l>Vobis (faelices Animae!) poſt taedia longa</l>
+               <l>Has ſedes ſacravit Amor: jam fata poteſtis</l>
+               <l>Improba ridere; &amp; vanos contemnere caſus.</l>
+               <l>Sic poſtquam iratum tranavit navita pontum,</l>
+               <l>Et fruitur portu, Fortunae oblitus iniquae,</l>
+               <l>Demulcet Genium; at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> udis poenè obrutus undis</l>
+               <l>Ignigenae indulget Baccho, tepido<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Lyaeo:</l>
+               <l>Et nondum ſiccas, expellunt pocula curas.</l>
+            </lg>
+            <lg>
+               <l>Ite, agite, ô Juvenes, &amp; vos, caſtiſsima turba,</l>
+               <pb n="5" facs="tcp:173853:5" rendition="simple:additions"/>
+               <l>Quae nondum Veneri ſpecula appendiſtis, honores</l>
+               <l>Ferte omnes Sponſo &amp; Sponſae; lectiſsima circum</l>
+               <l>Nectite ſerta torum, multo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> è flore corollas:</l>
+               <l>Hoc templum Veneris, teneri<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Cupidinis ara.</l>
+               <l>En ubi caſta venit vittis redimita capillos</l>
+               <l>Victima purpureos, niveo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> inſignis amictu.</l>
+               <l>Tali Agamemnoniam cultu inceſsiſſe puellam</l>
+               <l>Credibile eſt, quando formâ commota Diana,</l>
+               <l>Suppoſitâ cervâ maeſtis ſervabat ab aris.</l>
+            </lg>
+            <lg>
+               <l>Turba puellarum, cur non imponitis arae,</l>
+               <l>(Huic molli lecto) nuptam? ne brachia vincla</l>
+               <l>Impediant, nec vincla pedes: ſuccumbat Amoris</l>
+               <l>Victima, ſponte ſuâ. Cur palles ſacra puella?</l>
+               <l>En myſtes tibi ſponſus erit: tibi vulnera figet,</l>
+               <l>(Cur iterum formoſa times?) at vulnera Amoris.</l>
+               <l>Mille genis teneris, &amp; mille &amp; mille labellis</l>
+               <l>At<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> oculis fronti<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> affiget baſia, donec</l>
+               <l>Deliquium patiatur Amor: tunc arctius ulnis</l>
+               <l>Corpus formoſum amplectens, &amp; eburnea colla,</l>
+               <l>Pectore mulcebit tepido, vireſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> vagantes</l>
+               <l>Colliget, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> novos ſenſim producet amores.</l>
+            </lg>
+            <lg>
+               <l>Adſis ſponſe ſacer: myſtes &amp; ſponſus: Amoris</l>
+               <l>Myſtes, &amp; ſponſus Veneris: ſolennia ſacra</l>
+               <l>Sunt peragenda tibi; faveat tibi noctis amicae</l>
+               <l>Longa quies, &amp; ſerò ſuos ſol dividat ignes,</l>
+               <l>(Quaerit Amor tenebras &amp; amica ſilentia noctis.)</l>
+               <pb n="6" facs="tcp:173853:6" rendition="simple:additions"/>
+               <l>Virgine ſic tandem oblatâ ſacriſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> peractis,</l>
+               <l>Mane novo innumeram poſsis praedicere prolem.</l>
+            </lg>
+            <closer>
+               <signed>P. M.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>GOod morning to your chaſtest loves; the day</l>
+               <l>Haſts to compleat your joyes: <hi>Sol</hi> could not ſtay</l>
+               <l>One minute longer ere he roſe; he fled</l>
+               <l>The tedious courtſhips of his <hi>Tethys</hi> bed</l>
+               <l>And woo'd <hi>Aurora</hi> with a gentle ſmile</l>
+               <l>That ſhe would ope the day, and ſo beguile</l>
+               <l>Night of her due: ſhe bluſh'd, and ſtraight the hills</l>
+               <l>Were mantle'd all in red; the wood quire fils</l>
+               <l>The groves with Muſick: th' morne, the groves, and all,</l>
+               <l>Welcome the comming of loves feſtivall.</l>
+            </lg>
+            <lg>
+               <l>Virgins deflowre the feilds: (you may commit</l>
+               <l>Rapes on the medows and be Virgins yet.)</l>
+               <l>Rob <hi>Flora's</hi> gawdy wardrobe, and o'reſpread</l>
+               <l>The way with flowers where the Lovers tread.</l>
+               <l>This is an honeſt theft, this, no offence:</l>
+               <l>To ſinne when Love command's is innocence.</l>
+               <l>This done, the lovers may to th' Temple goe:</l>
+               <l>The Temple hath a ſhare in Loves rights too.</l>
+               <l>Religion is the band of loue: we ty</l>
+               <l>The lovers knot in this ſolemnity.</l>
+               <pb n="7" facs="tcp:173853:6" rendition="simple:additions"/>
+               <l>The ring's the pledge of love: no other ſtone</l>
+               <l>Gives it its price but its owne union.</l>
+            </lg>
+            <lg>
+               <l>Bleſt Couple! (doe I not a ſinne commit</l>
+               <l>To ſay a couple when this knot is knit?)</l>
+               <l>This right performed you both victors are,</l>
+               <l>Conquering each others hearts: each hath a ſhare</l>
+               <l>In the others love: from the ſelfe ſame fire</l>
+               <l>Both loves receive their warmth: the ſame deſire</l>
+               <l>Burns in each breaſt: two bodies thus may be</l>
+               <l>By one ſoule mov'd: 'tis Loves Philoſophy.</l>
+            </lg>
+            <lg>
+               <l>Love hath proclam'd a feaſt: his courts doe ring</l>
+               <l>With ſweeteſt Muſick; and the Minſtrils ſing:</l>
+               <l>The court's inſpir'd with mirth: who ever now</l>
+               <l>Lookes ſad and penſiue, or contracts the brow,</l>
+               <l>Savours of Schiſme and faction: he will prove</l>
+               <l>Not of the <hi>court,</hi> but <hi>family</hi> of Love.</l>
+               <l>Had ſome decrepite paire enter'd Loves bands</l>
+               <l>Snowie with age, and joyned palſi'd hands,</l>
+               <l>Mirth would have bin a <hi>mock-ſhow.</hi> Jf the Bride</l>
+               <l>Had chanc'd to ſmile, you would perhaps have ſpy'd</l>
+               <l>Empty unfurniſh'd gums: to ſing, at best</l>
+               <l>Had bin to cough in tune: and all the reſt</l>
+               <l>Of Loves ſolemnities, but only ſhowne</l>
+               <l>The Bride and Bridegroomes imperfection.</l>
+               <l>Here both are young: youth dances on their brows;</l>
+               <l>Freſh and untainted vigour gently flows</l>
+               <l>Within their veines: hither doth nature bring</l>
+               <pb n="8" facs="tcp:173853:7" rendition="simple:additions"/>
+               <l>The richeſt tributes of the youthfull ſpring.</l>
+            </lg>
+            <lg>
+               <l>See where the Bride appeares: ſuch Majeſty</l>
+               <l>Did not invest the <hi>Cyprian Queen,</hi> when ſhee</l>
+               <l>Ore' came on th' <hi>Phrygian</hi> Mounts: or when ſhe ſtrove</l>
+               <l>With armed <hi>Mavors</hi> in the field of Love.</l>
+               <l>Let but her aged parents gently ſipp</l>
+               <l>The balmy ſweetneſſe of her virgin lipp,</l>
+               <l>Jt will repaire their age, and ſtraight restore</l>
+               <l>A freſher ſpring then ere they had before.</l>
+            </lg>
+            <lg>
+               <l>Bleſt S<hi rend="sup">r</hi>, be happy in your Bride: thoſe armes</l>
+               <l>Are more effectuall then the ſtrongeſt charmes:</l>
+               <l>They will effaſcinate your ſoule: but this</l>
+               <l>Bewitching is unto a future bliſſe.</l>
+               <l>Enjoy her, chaſt, and modeſt: (there can be</l>
+               <l>No better dowry then Virginity.)</l>
+               <l>Chaſt as the bluſhing morne, or pearly dew</l>
+               <l>Which drops from Virgin-Roſes; whoſe faire hue</l>
+               <l>The Sunne hath not yet courted. Taſt the ſweet</l>
+               <l>Due to your wedded ſoules: it is not meet</l>
+               <l>That you ſhould now in contemplation move</l>
+               <l>But try at length the practick part of Love.</l>
+               <l>Warm'd by each others loves, you may beget</l>
+               <l>Each night a <hi>Cupid</hi> and be youthfull yet.</l>
+            </lg>
+            <closer>
+               <signed>P. M.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="9" facs="tcp:173853:7" rendition="simple:additions"/>
+            <lg>
+               <l>SPonſa veni; differs nimìs expectata mariti</l>
+               <l>Gaudia, quàm pretioſa Tibi dilabitur hora,</l>
+               <l>Dum nimiùm benè compoſitis Te veſtibus ornas</l>
+               <l>Tu plus nuda places. Paridis ſententia, Palmae</l>
+               <l>Ipſi nec Veneri victricia ſerta dediſſet,</l>
+               <l>Si non nudatae. Nimiam ſub pectore curam</l>
+               <l>De cultu retines; non veſte ornatior ullâ</l>
+               <l>Quàm Tali, Qualem Tibi connubialia praeſtant</l>
+               <l>Stragula, lodiceſquè, ſacri velamina lecti.</l>
+            </lg>
+            <lg>
+               <l>Undique conſperſis ſternatur floribus alma</l>
+               <l>Tellus, &amp; Quicquid calcaverit haec Roſa fiat;</l>
+               <l>Lilia virgineae diſpergite verna puellae,</l>
+               <l>Hoc agite, &amp; vobis talis precor accidat hora.</l>
+            </lg>
+            <lg>
+               <l>Accendas, Hymenaee, faces, faciliſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> vocatus</l>
+               <l>Ritibus his adſis viridi velatus amictu:</l>
+               <l>Siſque maritatis florentis nuntius aevi.</l>
+               <l>Nolo equidem decores humeros velamine flavo;</l>
+               <l>Zelotypi color iſte decet connubia ſponſi.</l>
+               <l>Aſt hinc ſuſpicio, procul hinc quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> vana faceſſant</l>
+               <l>Jurgia, ſollicitae procul hinc diſcedite curae,</l>
+               <l>Et quicquid violet peramica ſilentia noctis.</l>
+               <l>Aequo &amp; perpetuo nexu jungantur Amantes</l>
+               <l>Turturibus ſimiles; ſolo hoc diſcrimine diſtent,</l>
+               <pb n="10" facs="tcp:173853:8" rendition="simple:additions"/>
+               <l>Nullo cum gemitu, nullo cum murmure vivant.</l>
+            </lg>
+            <lg>
+               <l>Rumpe moras Zonam<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tuam; Quid ſponſa moraris?</l>
+               <l>Pro Zonâ cingat, pulcherrima virgo, mariti</l>
+               <l>Gratior amplexus; vivuſque ſit annulus iſte,</l>
+               <l>Quo ſua perpetuo firmet connubia nodo.</l>
+               <l>Teque viro jungas, nec vitis amiciùs ulmo</l>
+               <l>Haereat, aut plures (opto) ferat illa racemos,</l>
+               <l>Quam Tu filiolos: parias foecunda Quotannis,</l>
+               <l>Et geminum parias, longâque propagine, foetum;</l>
+               <l>Sitque alter Matris, Patriſque ſit ectypon alter.</l>
+            </lg>
+            <closer>
+               <signed>G. W.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>COme <hi>Hymen</hi> haſte, and bring thy lights,</l>
+               <l>And for a while let's know no Nights.</l>
+               <l>Put thy glad ſaffron Garment on,</l>
+               <l>Let all dull ſadneſse farre begone,</l>
+               <l>And ſing with Muſique by thy ſide,</l>
+               <l>Joy to the Bridegroome, and the Bride.</l>
+            </lg>
+            <lg>
+               <l>Behold here is a loving Paire,</l>
+               <l>They both are young, and both are faire,</l>
+               <l>Thy Torches yet did never ſee</l>
+               <l>Brave Youth, and Beauty ſo agree.</l>
+               <l>Haſte <hi>Hymen</hi> then to joyne their Hands,</l>
+               <l>Haste thee and looſe their virgin Bands.</l>
+            </lg>
+            <lg>
+               <pb n="11" facs="tcp:173853:8" rendition="simple:additions"/>
+               <l>What beauty on his cheeke doth ſhine!</l>
+               <l>Tis lovely, yet not Faeminine.</l>
+               <l>Each cheeke endeavours to excell,</l>
+               <l>And in this Friendly strife doe dwell.</l>
+               <l>A red in either doth abide,</l>
+               <l>As if they bluſh'd at eithers Pride.</l>
+            </lg>
+            <lg>
+               <l>In Hers what Modeſty doth ſit!</l>
+               <l>The Roſe and Lilly there are knit.</l>
+               <l>From Her ſnowy ſpotleſse looke,</l>
+               <l>The face of Jnnocence was tooke.</l>
+               <l>Her Lipps in Labour ſwell, ſoft Kiſſes</l>
+               <l>Th'ofſpring are, and ſweeter bliſſes.</l>
+            </lg>
+            <lg>
+               <l>Their Friends and Fortunes aequall bee,</l>
+               <l>Their virtues, and estates agree;</l>
+               <l>Their Age is too ſo nigh the ſame,</l>
+               <l>That they ſcarce differ but in Name.</l>
+               <l>They ſeeme to mee as if they had</l>
+               <l>Bin Man and Wife by Birth, not made.</l>
+            </lg>
+            <lg>
+               <l>Haſte thee <hi>Hymen,</hi> what doſt feare</l>
+               <l>The threats of this, or t'other ſhire?</l>
+               <l>Can <hi>Bromham</hi> mourne, or <hi>Cannington</hi>
+               </l>
+               <l>To ſee ſo bleſt an union!</l>
+               <l>If to a Gemme, a Gemme you joyne,</l>
+               <l>The more's the Prize, the more's the ſhine.</l>
+            </lg>
+            <lg>
+               <pb n="12" facs="tcp:173853:9" rendition="simple:additions"/>
+               <l>Thou rob'ſt not this, or t'other place,</l>
+               <l>But add'ſt to both a double Grace;</l>
+               <l>They two being wed, thoſe Townes may be</l>
+               <l>Partakers of the Mysterie.</l>
+               <l>Two ſtarres conjoyn'd, both may diſpence</l>
+               <l>To ſundry climes their Jnfluence.</l>
+            </lg>
+            <lg>
+               <l>The fruitfull vine doth from one Roote,</l>
+               <l>Diffuſe his Moisture round about;</l>
+               <l>So that the fartheſt Branch may be</l>
+               <l>The thickeſt cluſter'd on the tree.</l>
+               <l>So from the stock may branches grow</l>
+               <l>To ſhade thoſe Townes and Countries to.</l>
+            </lg>
+            <lg>
+               <l>And now I ſee 'em joyn'd, the Bells</l>
+               <l>To list'ning Friends the glad news tells.</l>
+               <l>Joy ſitts on ev'ry brow, each eye</l>
+               <l>Mov's quick as Heaven with Lollity.</l>
+               <l>One wedding brings a thouſand forth,</l>
+               <l>For all ſeeme married unto Mirth.</l>
+            </lg>
+            <lg>
+               <l>But ſee the Sunne how faſt he flies</l>
+               <l>And to his amorous <hi>Tethys</hi> hies:</l>
+               <l>How red he bluſhes, as he were</l>
+               <l>A ſham'd t'have kept the married Paire</l>
+               <l>From their due joyes ſo long? Their day</l>
+               <l>Js night, he cries, ſo poaſts away.</l>
+            </lg>
+            <lg>
+               <pb n="13" facs="tcp:173853:9" rendition="simple:additions"/>
+               <l>And haſte thou, Muſe, too, only wiſh</l>
+               <l>Each night may prove no worſe then this;</l>
+               <l>Their Love may ſtill encreaſe, and they</l>
+               <l>Kiſſe ſtill as loving as to Day.</l>
+               <l>The children like the Parents prove,</l>
+               <l>Some <hi>Mars'es,</hi> and ſome <hi>Queenes of Love</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>R. P.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>HUc, huc ô Veneres, Cupidineſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>,</l>
+               <l>Huc Nymphae, Chariteſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> quotquot eſtis,</l>
+               <l>Sed caſtae Veneres, Cupidineſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+               </l>
+               <l>Sed quales Charites beatis illum,</l>
+               <l>Sed quales Charites beatis illam,</l>
+               <l>Huc laeto ſimul advolate curſu.</l>
+            </lg>
+            <lg>
+               <l>Huc &amp; vos properate, grata, Muſae,</l>
+               <l>Turba, &amp; quaelibet induens Thaliam,</l>
+               <l>Veſtros jungite Gratiis lepores.</l>
+               <l>Illi junctus <hi>Hymen</hi> choro beabit</l>
+               <l>Fauſto carmine blandulum maritum,</l>
+               <l>Fauſto carmine blandulam maritam.</l>
+            </lg>
+            <lg>
+               <l>Haec junget ſociâ dies catenâ,</l>
+               <l>
+                  <hi>Hugonem</hi> juvenum venuſtiorum,</l>
+               <l>Et ſexûs decus omne mollis <hi>Annam.</hi>
+               </l>
+               <l>Ne citum nimis urgeas Phlegonta,</l>
+               <pb n="14" facs="tcp:173853:10" rendition="simple:additions"/>
+               <l>Currum qui regis arbiter diei;</l>
+               <l>Cedas ſeriùs at nigrae ſorori,</l>
+               <l>Feſti gaudia protrahens amaeni.</l>
+            </lg>
+            <lg>
+               <l>Atat, gnavus &amp; impiger maritus</l>
+               <l>Lento iraſcitur, invidet<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Phaebo.</l>
+               <l>Sponſi gaudia plena quid moramur?</l>
+               <l>Et quid vota novae modeſta ſponſae;</l>
+               <l>Amplexuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> pios, ſed &amp; ruborem:</l>
+               <l>Sincera oſcula, ſed ſimul timorem:</l>
+               <l>Et quae dat genialis ille lectus,</l>
+               <l>Blanda &amp; Cypridos incruenta bella?</l>
+            </lg>
+            <lg>
+               <l>Ah pigros nimis urgeas caballos,</l>
+               <l>Currum qui regis arbiter diei;</l>
+               <l>Da furvae citiùs locum ſorori;</l>
+               <l>Nec ſedem priùs occupa relictam,</l>
+               <l>Donec officioſa turba amici,</l>
+               <l>Inter brachia molliora ſponſi</l>
+               <l>Nuptam corripiant novam, relicto</l>
+               <l>Nuper nomine virginis rubentem.</l>
+            </lg>
+         </div>
+         <div type="eclogue">
+            <head>AN ECLOGUE.</head>
+            <stage>Coridon, Alexis.</stage>
+            <sp>
+               <speaker>Cor.</speaker>
+               <l>Hoe <hi>Alexis,</hi> gentle ſwaine</l>
+               <l>Turne a litle back againe.</l>
+               <l>Whether run'ſt thou with ſuch ſpeed,</l>
+               <l>Whil'ſt thy flocks neglected feed?</l>
+            </sp>
+            <sp>
+               <pb n="15" facs="tcp:173853:10" rendition="simple:additions"/>
+               <speaker>Alex.</speaker>
+               <l>Hast, <hi>Coridon,</hi> make haſt away</l>
+               <l>This is Sheep-heards holyday.</l>
+               <l>Seeſt thou how the glad ſwaines runne</l>
+               <l>With each an acclamation</l>
+               <l>Of joy, and pleaſure, to betide</l>
+               <l>The happy Bridegroome, and his Bride?</l>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <l>Courteous Sheepe-heard read to me,</l>
+               <l>Whoſe is this ſolemnity?</l>
+            </sp>
+            <sp>
+               <speaker>Alex.</speaker>
+               <l>Wot'ſt thou not how <hi>Brumham's</hi> pride</l>
+               <l>(Happy Virgin, happier Bride!)</l>
+               <l>
+                  <hi>Pan's</hi> eldeſt Nymph, and neareſt care,</l>
+               <l>Wedds <hi>Sylvanus</hi> ſonne and heire?</l>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <l>Shee? the glory of theſe plaines,</l>
+               <l>Whoſe beauty ſo bewitch'd the ſwaines</l>
+               <l>And in her fond admirers ſtrooke,</l>
+               <l>Amazement with each gracefull looke?</l>
+               <l>Shee whoſe every accent might,</l>
+               <l>Charme with wonder, and delight;</l>
+               <l>And challenge in harmonious meaſure</l>
+               <l>
+                  <hi>Syrinx, Pan's</hi> transformed pleaſure?</l>
+               <l>Who when her eye ſhee doth advance</l>
+               <l>Conquers a heart with every glance?</l>
+               <l>Shee who made the amorous boyes,</l>
+               <l>To eſteeme no other joyes;</l>
+               <l>But neglect their flocks to fold,</l>
+               <l>While her eyes they might behold;</l>
+               <l>And not mind the ſwift-pac'd Day,</l>
+               <pb n="16" facs="tcp:173853:11" rendition="simple:additions"/>
+               <l>Gazing on a brighter ray?</l>
+               <l>Whoſe amorous and awfull eye,</l>
+               <l>Moves with ſuch tempting modesty,</l>
+               <l>At once t'would kindle a looſe flame,</l>
+               <l>And check it? Is't not Shee?</l>
+            </sp>
+            <sp>
+               <speaker>Alex.</speaker>
+               <l>The ſame</l>
+               <l>Yet all this beauty now is wonne,</l>
+               <l>By the Swaine of <hi>Cannington:</hi>
+               </l>
+               <l>Then whom <hi>Phoebus</hi> yet hath ſpied</l>
+               <l>Nothing fairer, but his Bride.</l>
+               <l>One in whoſe ennobled breſt</l>
+               <l>Vertue's ſelfe hath choſe to reſt.</l>
+               <l>True in heart, and ſtrong in tongue;</l>
+               <l>Wonder, in a ſwaine ſo young!</l>
+               <l>Nothing Noble, nothing faire,</l>
+               <l>Lacks to make a perfect paire.</l>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <l>Joyne we then, and let our love</l>
+               <l>Call for more bleſsings from above</l>
+               <l>On this rich couple. Send them downe</l>
+               <l>Every Deity a Crowne.</l>
+            </sp>
+            <sp>
+               <speaker>Alex.</speaker>
+               <l>
+                  <hi>Pallas</hi> wiſdome.</l>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <l>
+                  <hi>Juno</hi> treaſure.</l>
+            </sp>
+            <sp>
+               <speaker>Alex.</speaker>
+               <l>
+                  <hi>Hebe</hi> youth.</l>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <l>And <hi>Venus</hi> pleaſure.</l>
+            </sp>
+            <sp>
+               <speaker>Alex.</speaker>
+               <l>
+                  <hi>Bacchus</hi> and <hi>Apollo</hi> joyne,</l>
+               <l>To make this a fruitfull vine.</l>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <l>
+                  <hi>Hymen</hi> with thy brighter flame</l>
+               <l>Quite expell all cauſe of blame.</l>
+               <l>Farre hence vaine jealouſy be ſet,</l>
+               <l>Where youth and beauty ſo are met.</l>
+            </sp>
+            <sp>
+               <pb n="17" facs="tcp:173853:11" rendition="simple:additions"/>
+               <speaker>Alex.</speaker>
+               <l>That ſo thir numerous joyes may ne're decreaſe,</l>
+               <l>Each being others greateſt happineſſe.</l>
+            </sp>
+            <closer>
+               <signed>T. P.</signed>
+            </closer>
+         </div>
+         <div type="eclogue">
+            <head>ECLOGUE.</head>
+            <stage>Damon. Cloris.</stage>
+            <sp>
+               <speaker>Dam.</speaker>
+               <l>COme, <hi>Cloris,</hi> let us hast away,</l>
+               <l>Wee muſt all now keepe holiday.</l>
+               <l>
+                  <hi>Thirſill</hi> to day muſt <hi>Coelia</hi> wed,</l>
+               <l>
+                  <hi>Pan</hi> will enjoy him in his Bed.</l>
+            </sp>
+            <sp>
+               <speaker>Clo.</speaker>
+               <l>The newes is welcome, ſuch a paire,</l>
+               <l>So young ſo handſome and ſo faire</l>
+               <l>
+                  <hi>Arcadia</hi> yeelds not, what a face</l>
+               <l>Doth the gentle <hi>Coelia</hi> grace!</l>
+               <l>How did ſhee Captivate the Swaines</l>
+               <l>That ever ſaw her on the Plaines!</l>
+               <l>What Garlands would this Sheep-heard bring,</l>
+               <l>What Roundelaies that other ſing!</l>
+               <l>That ſcarce a Pipe was heard to play</l>
+               <l>Vnleſſe in praiſe of <hi>Coelia!</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <l>And, <hi>Cloris, Thirſil</hi> is a Lad,</l>
+               <l>That in as great eſteeme is had,</l>
+               <l>What Sheep-heardeſſe on all the greene</l>
+               <pb n="18" facs="tcp:173853:12" rendition="simple:additions"/>
+               <l>Hath not <hi>Thirſills</hi> lover beene?</l>
+               <l>Pretty <hi>Daphnis</hi> oft would make,</l>
+               <l>Garlands, and Poſies for his ſake,</l>
+               <l>And oft in flowers his name would ſet,</l>
+               <l>And weare it in her Coronet,</l>
+               <l>And then ſhee'd vow that his name lent,</l>
+               <l>The flowers their colour, and their ſent.</l>
+               <l>
+                  <hi>Phyllis</hi> too did often ſend,</l>
+               <l>Tokens to him, as her friend,</l>
+               <l>Shee wrought him Handkerchiefs, which ſhee</l>
+               <l>Conveid unto him privily,</l>
+               <l>And if at any time he chanc'd</l>
+               <l>To uſe them when hee publike danc'd,</l>
+               <l>
+                  <hi>Phyllis</hi> then was happy made,</l>
+               <l>And ample recompences had.</l>
+               <l>What ſhifts would <hi>Amarillis</hi> frame,</l>
+               <l>If ſhee but heard of <hi>Thirſills</hi> name!</l>
+               <l>Shee'd drive her flocks to his, and ſweare</l>
+               <l>They better fed, becauſe ſo neare.</l>
+               <l>His eyes ſhee'd call thoſe heavenly ſhowers,</l>
+               <l>That deck the earth with graſse, and flowers,</l>
+               <l>And twas no mar'le ſince ſhee did view,</l>
+               <l>How in his cheeks ſweet Roſes grew,</l>
+               <l>Shee call'd his face a Flowery May,</l>
+               <l>His eye a never falling day:</l>
+               <l>If that he, but a piping were,</l>
+               <l>Sheed cal't the muſicke of the Spheare.</l>
+            </sp>
+            <sp>
+               <pb n="19" facs="tcp:173853:12" rendition="simple:additions"/>
+               <speaker>Clo.</speaker>
+               <l>Oh <hi>Damon</hi> thou thy ſelfe canſt ſay,</l>
+               <l>How <hi>Coelia</hi> doth both ſing and play,</l>
+               <l>How all the youngſters of the plaines,</l>
+               <l>Are raviſht with her curious straines.</l>
+               <l>How when ſhe ſings her Flock will looke</l>
+               <l>As with admiration ſtrooke,</l>
+               <l>They leave of graſing ſtraight to heare,</l>
+               <l>And only then doe feed the eare.</l>
+               <l>Some ſtand ſtone ſtill, as if afraid</l>
+               <l>To diſturbe the beauteous Maide.</l>
+               <l>But others friske it here and there,</l>
+               <l>Dancing to the Tunes they heare.</l>
+               <l>Whil'ſt all the Sheepheardeſses yeeld</l>
+               <l>To her the honour of the field.</l>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <l>Then <hi>Cloris</hi> they are happy met.</l>
+            </sp>
+            <sp>
+               <speaker>Clo.</speaker>
+               <l>They're like a Roſe to a Roſe ſet.</l>
+               <l>Like two bright starres they doe appeare,</l>
+               <l>Both are faire, and both are cleare.</l>
+               <l>
+                  <hi>Sol</hi> with bright <hi>Venus</hi> doth conjoyne,</l>
+               <l>Beauty, and Majeſty combine.</l>
+               <l>
+                  <hi>Pan</hi> crowne their wiſhes, may they be</l>
+               <l>Not happy, but foelicity.</l>
+            </sp>
+            <closer>
+               <signed>A. S.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="20" facs="tcp:173853:13" rendition="simple:additions"/>
+            <lg>
+               <l>WHat strange ſound's this! an invocation</l>
+               <l>Of <hi>Cupid, Hymen,</hi> Love, Peace, Vnion!</l>
+               <l>'Tis well ſome yet agree; for by thoſe Gods</l>
+               <l>J thought that all the World had been at odds.</l>
+               <l>And didſt thou ſay a Wedding? ist not, Friend,</l>
+               <l>A Tournament theſe Families intend?</l>
+               <l>Or more vaſt quarrell, ſuch as threats our Land?</l>
+               <l>Looke, yon's as brave a troope as th' Royall band.</l>
+               <l>But hence all terrors, ſince J well diſcry,</l>
+               <l>Here's nought intended but a bleſt ſupply</l>
+               <l>Againſt both warres, and ſickneſſes: hopes yet,</l>
+               <l>Since though we cannot ſave, wee may beget:</l>
+               <l>He that gave Angells Immortality,</l>
+               <l>Jn liew of that, did bid Man, Multiply.</l>
+            </lg>
+            <lg>
+               <l>By what name ſhall I ſaint theſe houres? ſome ſay</l>
+               <l>Tis not ſo much a Nuptiall, as Birth-day.</l>
+               <l>Since Parents, Friends, each one this day begins</l>
+               <l>To acknowledge him, that was borne ſingle, Twins:</l>
+               <l>And yet I feare we have err'd groſsely who</l>
+               <l>Doe ſtile theſe Twins; They are not ſo much two;</l>
+               <l>But ſhall become, ere theſe ten Moones be gone,</l>
+               <l>Incorporate one Babe, one Little-one.</l>
+               <l>Of that compleat, and perfect Vnity,</l>
+               <l>All you boaſt yet, is but as Prophecie;</l>
+               <pb n="21" facs="tcp:173853:13" rendition="simple:additions"/>
+               <l>Your Loves, as ring, are types, that the Church <hi>will'd,</hi>
+               </l>
+               <l>But <hi>Progeny</hi> is Marriage <hi>fulfill'd.</hi>
+               </l>
+               <l>Nature expects this from you, as her meed;</l>
+               <l>Then for your birth you thanke her, with your breed.</l>
+            </lg>
+            <closer>
+               <signed>R. P.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>FIdlers, goe breake your ſtrings, more muſick lies</l>
+               <l>Jn the Brides mirth, then your harſh melodies.</l>
+               <l>Dancers, be you gone too, her panting hart</l>
+               <l>Keepes truer muſick-time, then all your art.</l>
+               <l>And what needs theſe ſtrew'd flowr's? if for their ſent,</l>
+               <l>Her breath <hi>Arabian</hi> ſpices doth preſent!</l>
+               <l>But if the colour pleaſe your eye, why ſee</l>
+               <l>A bluſhing roſe in each cheeks modeſty.</l>
+               <l>Your junkets too are uſeleſse, for each gueſt</l>
+               <l>Findes in the Bride a moſt delicious feaſt.</l>
+               <l>
+                  <hi>Hymen</hi> put out thy torch; though love's a fire,</l>
+               <l>Yet darkneſse, and not light is his deſire.</l>
+               <l>But if againe you would revive the Sun</l>
+               <l>Let the Bride ope an eye, and ſtraight 'tis done.</l>
+               <l>Thus happy Bridegroome you enjoy in one</l>
+               <l>A wife, and wedding preparation.</l>
+            </lg>
+            <lg>
+               <l>How will the Hinds of <hi>Somerſet,</hi> glad Swains,</l>
+               <pb n="22" facs="tcp:173853:14" rendition="simple:additions"/>
+               <l>Run hobling with their welcomes o're the plains,</l>
+               <l>When <hi>Canington</hi> ſhall turne loves paradice,</l>
+               <l>With the wiſht preſence of your beauteous prize?</l>
+               <l>They'l leave their harveſt thougb it ſhine; the plow</l>
+               <l>The flayle, and all ſhall lye neglected now;</l>
+               <l>And to a bag-pipe, whiſtle, ſingle Kitt,</l>
+               <l>Lift up their heeles 'till they the Seiling hit:</l>
+               <l>Scraping ſuch welcomes that your hall will bee</l>
+               <l>Turn'd fallow with their Gamboll jolitye.</l>
+               <l>As if their plowing ſhooes would there foretell,</l>
+               <l>The plenteous viands which againe ſhall ſwell</l>
+               <l>Your full crown'd tables, equalling that ſtore</l>
+               <l>Your Fathers charity us'd ſpend before.</l>
+               <l>Your flouriſhing age doth prophecy their mirth</l>
+               <l>Shall yearly be renew'd with a faire birth.</l>
+               <l>Such hopes are daſht, when youth mungrels it's blood</l>
+               <l>With a rich three-ſcore ore-worne Widdow-hood.</l>
+               <l>Where the not pleaſant, but moſt reverend bride</l>
+               <l>Lies like a <hi>Sybill</hi> by her husbands ſide,</l>
+               <l>Who kiſſeth her with ſuch devotion,</l>
+               <l>As Anch'rites doe ſome Relique, or Saints bone.</l>
+            </lg>
+            <lg>
+               <l>But heer's no wrinkles, ſave what <hi>Venus</hi> hurles</l>
+               <l>On her faire brow, when it with ſmiles ſhe curles.</l>
+               <l>Theſe ſtrict embraces teach the fruitfull vine,</l>
+               <l>And ſhew the honyedwood-bine, to entwine.</l>
+               <l>Like two perfumes mixt may they know no strife,</l>
+               <l>But to infuſe in a third Odour, life.</l>
+            </lg>
+            <closer>
+               <signed>G. K.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="23" facs="tcp:173853:14" rendition="simple:additions"/>
+            <head>On the happy Marriage of H. R. and A. B. masked under the names of ASTRO<g ref="char:EOLhyphen"/>PHIL and CHARILLIS.</head>
+            <lg>
+               <l>YOu Virgins that did ne're yet prove</l>
+               <l>The power and ſweet effects of love:</l>
+               <l>And yet faine would learners be,</l>
+               <l>J'th' chaſt and naturall miſtery.</l>
+               <l>Goe not to your wanton vine</l>
+               <l>'Tis not love ſhe doth define</l>
+               <l>But loves errour, ſee her Top,</l>
+               <l>Makes uſe of every Neighbour prop:</l>
+               <l>And rather then ſhee'l lye alone</l>
+               <l>Sheele looſely mingle with her own.</l>
+               <l>The Jvy too as well doth twine</l>
+               <l>About the Elme as lofty Pine,</l>
+               <l>If ſhee has ſtore ſhee doth not care</l>
+               <l>How crooked and deform'd they are.</l>
+            </lg>
+            <lg>
+               <l>Such love as this though typ'd by trees</l>
+               <l>Is practis'd by thoſe looſer ſhees,</l>
+               <l>Whoſe dotage thinks all ware will paſſe,</l>
+               <l>If veil'd with loves diviner glaſſe.</l>
+               <l>Her true complexion wouldst thou ſee,</l>
+               <l>Such as is not Hereſy,</l>
+               <l>Whoſe unmixt and cleaner fires</l>
+               <pb n="24" facs="tcp:173853:15" rendition="simple:additions"/>
+               <l>Owe their birth to ſuch deſires,</l>
+               <l>As a Hermite may admit,</l>
+               <l>Or a frozen Anchorite:</l>
+               <l>Let <hi>Aſtrophil</hi> thy Tutor be,</l>
+               <l>Or <hi>Charillis</hi> chaſtity.</l>
+               <l>Who to each Virgin breaſt ſhall prove<g ref="char:punc">▪</g>
+               </l>
+               <l>Not lovers but the Art of love.</l>
+            </lg>
+            <lg>
+               <l>Which having learnt and that you bee</l>
+               <l>Proficients in the myſtery;</l>
+               <l>At your Tutors Bridall day,</l>
+               <l>Every Virgin ſing a Lay:</l>
+               <l>And as ſacrifices bring</l>
+               <l>The pride and glory of the ſpring.</l>
+               <l>Lillies, Daffadills, and Poſies</l>
+               <l>Of the bluſhing Damaske Roſes,</l>
+               <l>Primroſes and other flowres</l>
+               <l>To bedeck the Wedding bowres.</l>
+               <l>Chaplets freſh, both white and greene,</l>
+               <l>Such as fit Loves, King and Queene.</l>
+               <l>Since to each Virgin breaſt they'le prove,</l>
+               <l>Not Lovers but the Art of Love.</l>
+            </lg>
+            <lg>
+               <l>That done with ſoft and dutious feet</l>
+               <l>At <hi>Brumham</hi> houſe together meet:</l>
+               <l>Where if the Bride (as innocent</l>
+               <l>As if there were no marriage meant)</l>
+               <pb n="25" facs="tcp:173853:15" rendition="simple:additions"/>
+               <l>You find aſleep, each one may ſip</l>
+               <l>The balmy Nectar of her Lip,</l>
+               <l>Which treaſure up, for it will be</l>
+               <l>The beſt preſerve for Chaſtity.</l>
+               <l>Then with voyce as ſoft and ſtill</l>
+               <l>As <hi>Zeph'rus,</hi> whiſper <hi>Aſtrophill.</hi>
+               </l>
+               <l>At which word, as at the Bell</l>
+               <l>Which rings a Dirge or Matins Knell,</l>
+               <l>Riſe the chaſt and watchfull Nunes,</l>
+               <l>Shee'le diſcloſe her clowded Sunnes:</l>
+               <l>Which having ſeene you boldly may</l>
+               <l>Tell the world 'tis breake of day.</l>
+               <l>Then with no unſeemly rimes,</l>
+               <l>As are uſuall at ſuch times</l>
+               <l>'Mongst looſe Madames of the Court,</l>
+               <l>Make immodesty a ſport.</l>
+               <l>But with hearts as pure and free</l>
+               <l>From bad thoughts as Martyrs be</l>
+               <l>When they laughing court the stake,</l>
+               <l>Finer try your charge to make.</l>
+               <l>Which nor ſad, nor froward doe,</l>
+               <l>You may be chast and merry too.</l>
+               <l>Each virgin to her ſelfe may ſay</l>
+               <l>That I had ſuch a wedding day!</l>
+               <l>Having bound her flaxen treſſes</l>
+               <l>And put on the choyce of dreſses,</l>
+               <l>To her Love that all this while</l>
+               <l>With a ſweet and unforc't ſmile</l>
+               <pb n="26" facs="tcp:173853:16" rendition="simple:additions"/>
+               <l>Doe's expect in one ſoft kiſſe</l>
+               <l>To give and take an unpriz'd bliſſe,</l>
+               <l>You muſt deliver your rich ſtore</l>
+               <l>Both the Indies boaſt not more.</l>
+               <l>And like learners watchfull ſtand</l>
+               <l>At the Bride and Bride-groome's hand.</l>
+               <l>Since to each Virgin Breaſt they'l prove</l>
+               <l>Not Lovers but the Art of Love.</l>
+            </lg>
+            <lg>
+               <l>Next, when as their lipps have ſhowne</l>
+               <l>Their ſoules more Conſtant <g ref="char:V">Ʋ</g>nion;</l>
+               <l>And the God of Marriage ſtands,</l>
+               <l>With Virgin-Tapers in his hands,</l>
+               <l>Which he lately lighted by,</l>
+               <l>His or her refulgent eye,</l>
+               <l>Then I ſay, the Virgin crew</l>
+               <l>Of <hi>Brumham</hi> Nymphs know what to doe.</l>
+               <l>And the ſwaynes of <hi>Buckington,</hi>
+               </l>
+               <l>
+                  <hi>Lacok, Chalne,</hi> and <hi>Heddington,</hi>
+               </l>
+               <l>Pleaſant <hi>Bremble,</hi> where the fleet</l>
+               <l>And parted ſtreames of <hi>Avon</hi> meet,</l>
+               <l>Wait the Bride and Bridegroomes Nodds</l>
+               <l>Like that troupe of leſser Gods</l>
+               <l>That once met on <hi>Phlaegras</hi> greene</l>
+               <l>To attend Heavens <hi>King</hi> and <hi>Queene.</hi>
+               </l>
+               <l>And the Birds who chirping ſay</l>
+               <l>This ſhall be your Biſhops day,</l>
+               <pb n="27" facs="tcp:173853:16" rendition="simple:additions"/>
+               <l>From your cheerefull hollow throates,</l>
+               <l>Strive to drowne the Minſtrells notes.</l>
+            </lg>
+            <lg>
+               <l>See they come, what light is here!</l>
+               <l>
+                  <hi>Phoebus</hi> is out-ſhone I ſweare,</l>
+               <l>And for ſhame behind a cloud</l>
+               <l>His fainting conquer'd beames doth ſhrowd.</l>
+               <l>Tell me Virgins have you ſeen</l>
+               <l>On the <hi>Spye</hi> or <hi>Wanſditch</hi> green</l>
+               <l>Such a lovely well-ſhapd Creature?</l>
+               <l>Or e're dream'd of ſuch a feature?</l>
+               <l>For I know your dreames ſuggeſt</l>
+               <l>What doth pleaſe your fancies best,</l>
+               <l>Browne his hayre is, which doth ſhew</l>
+               <l>The owner of't is truſty too.</l>
+               <l>Proper as the lofty Pine</l>
+               <l>Or the trees of <hi>Apennine.</hi>
+               </l>
+               <l>Strait as ſtraighteſt lines of Art,</l>
+               <l>Or thoſe beames the Sunne doth dart,</l>
+               <l>When no thicke or clowdy dayes</l>
+               <l>Doe refract or breake his rayes.</l>
+               <l>Would you have me to expreſſe</l>
+               <l>In a word all comelineſſe</l>
+               <l>That nothing may be ſaid beſide,</l>
+               <l>Hee's as beauteous as his Bride.</l>
+               <l>And with her there's no compare,</l>
+               <l>
+                  <hi>Venus</hi> ſelfe is not ſo faire.</l>
+               <l>Shee ha's goodly eyes 'tis true,</l>
+               <pb n="28" facs="tcp:173853:17" rendition="simple:additions"/>
+               <l>So has bright <hi>Charillis</hi> too.</l>
+               <l>
+                  <hi>Venus</hi> forehead thoug't be high</l>
+               <l>Js not white as Jvory.</l>
+               <l>When <hi>Charilliſſes</hi> I know</l>
+               <l>Whiter is then falling ſnow</l>
+               <l>Whoſe ſudden, chaſt, and ſpotleſſe birth</l>
+               <l>Never mingled yet with earth.</l>
+               <l>Her Lipps—but oh J cant'runne o're</l>
+               <l>All the parts of her rich ſtore,</l>
+               <l>
+                  <hi>Hymens</hi> torch burnes all this while,</l>
+               <l>And the Bride and Bridegroomes ſmile</l>
+               <l>Gently chides at my delay,</l>
+               <l>But they ſhall no longer stay.</l>
+               <l>Virgins o'pe the Temple gates</l>
+               <l>Where the Prieſt and people waites</l>
+               <l>Each as jocound as if they,</l>
+               <l>Saw and had this Bridall Day:</l>
+               <l>Now with fervour joyne your hands</l>
+               <l>As in love ſo <hi>Hymens</hi> bands.</l>
+               <l>While my humble muſe retires</l>
+               <l>Seldome warm'd at ſuch bright fires</l>
+               <l>And betakes it ſelfe agen</l>
+               <l>To it's blunt and uſuall Pen.</l>
+               <l>And if e're J chance to woe,</l>
+               <l>Beauteous payre, Ile thinke of you.</l>
+               <l>Since to all Virgin Breaſts you prove</l>
+               <l>Not Lovers but the Art of Love.</l>
+            </lg>
+            <closer>
+               <signed>G. B.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="29" facs="tcp:173853:17" rendition="simple:additions"/>
+            <lg>
+               <l>HAnds joyned? 'Twas never Better: ſee</l>
+               <l>They ſhadow out ſome Majeſty!</l>
+               <l>'Tis this ſtately Poſture crownes</l>
+               <l>
+                  <hi>Kings</hi> and <hi>Queenes</hi> Ambitions:</l>
+               <l>For to make ſure his myſtique Bands</l>
+               <l>
+                  <hi>Hymen</hi> tyes one knot of Hands.</l>
+               <l>Here, Great Love, thou haſt a Paire</l>
+               <l>More ſoft then pureſt Kidd, more Faire:</l>
+               <l>Which doe lend the Gloves they weare</l>
+               <l>Perfume, beyond the Millainer.</l>
+               <l>And where can Rich Sents breathing lye</l>
+               <l>Fitter then in ſuch Jvory?</l>
+            </lg>
+            <lg>
+               <l>Then Happy <hi>Sir,</hi> the common voice</l>
+               <l>Muſt needs commend You and Your choice,</l>
+               <l>Who are ſo vertuous, ſo Beſt</l>
+               <l>You will ev'n conſecrate your Prieſt.</l>
+               <l>Come then from Church, There's other Rites</l>
+               <l>Wait to accumulate Your delights.</l>
+               <l>View the Board and ſee what fare</l>
+               <l>The Houſhold Goddeſſe can prepare!</l>
+               <l>For now I can't believe <hi>Lar</hi> will</l>
+               <l>Live a Batchelour-God ſtill.</l>
+               <l>But hence warming her deſires</l>
+               <l>
+                  <hi>Veſta</hi> too kindles New fires.</l>
+               <pb n="30" facs="tcp:173853:18" rendition="simple:additions"/>
+               <l>Strike up All in midſt o'th Feast,</l>
+               <l>Let Mirth enliven every Gueſt:</l>
+               <l>
+                  <hi>Ceres</hi> Ladyſhip ſhall dance</l>
+               <l>Attendance, and His Plumpneſſe praunce</l>
+               <l>That's <hi>Bacchus</hi> hight, for let me ſee</l>
+               <l>To Daunce is Wines chiefe Quality.</l>
+               <l>So we the Gueſts have what to doe,</l>
+               <l>Till the Roome ſeemes to dance round too.</l>
+               <l>Then ſadly take our leave, The Year</l>
+               <l>Yields few ſuch dayes in's Kalender.</l>
+               <l>Such a Night I me ſure 't can't yield,</l>
+               <l>Till <hi>Platoes</hi> dreame ſhall be fulfill'd.</l>
+               <l>When in the ſame bleſſed place</l>
+               <l>You ſhall repeat the ſame Embrace.</l>
+               <l>And, but the Diamonds ſparkling Eye</l>
+               <l>None preſent at Loves myſtery.</l>
+               <l>Then ſhall you boaſt that you have twice</l>
+               <l>Breath'd <hi>Indies,</hi> and dream't <hi>Paradice.</hi>
+               </l>
+               <l>And recounted of your bliſſes</l>
+               <l>The ſecond Chiliad of Kiſses.</l>
+               <l>So your ſucceſsive Love ſhall no End ſee;</l>
+               <l>For Time Repeated is Eternity.</l>
+            </lg>
+            <closer>
+               <signed>I. G.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="31" facs="tcp:173853:18" rendition="simple:additions"/>
+            <lg>
+               <l>FAire Ones, how will you pacify</l>
+               <l>The litle angerd Deity?</l>
+               <l>Whoſe Altars none will after dare</l>
+               <l>T' approach with ſacrifice, which are</l>
+               <l>Leſſe then Perfection's ſelfe; then how</l>
+               <l>Will he find votaries enough?</l>
+               <l>His Temples will turne Groves, and theſe</l>
+               <l>Perhaps of fatall Cypreſſe trees.</l>
+               <l>Expect you not hee'l make retire</l>
+               <l>With's leaden Dart your noble fire,</l>
+               <l>That ſo the meaneſt of his traine</l>
+               <l>May hope his favours cheape againe?</l>
+            </lg>
+            <lg>
+               <l>No with your ſingle Vowes hee's more</l>
+               <l>Honour'd, then with his wonted ſtore</l>
+               <l>Of common ſuppliants. What if here</l>
+               <l>He looſe a couple, who not dare</l>
+               <l>To ſhew their faces now (alaſſe,</l>
+               <l>They meant their Lands ſhould make them paſſe.)</l>
+               <l>Or if he miſſe ſome well-borne paire,</l>
+               <l>Whoſe only <hi>Armes</hi> are rich and faire?</l>
+               <l>Others, who for their yeares expect,</l>
+               <l>The wing'd Boy will not dare reject</l>
+               <l>Their reverend vowes, would hither move</l>
+               <pb n="32" facs="tcp:173853:19" rendition="simple:additions"/>
+               <l>T'increaſe the cinders of their Love.</l>
+               <l>Some couples haply are kept back,</l>
+               <l>Who every Good, but Beauty, lack.</l>
+               <l>Some, who being only vertuous,</l>
+               <l>Thought other Graces of no uſe;</l>
+               <l>Nay, that they leſſen'd vertues praiſe;</l>
+               <l>As if the ſhadow added rayes</l>
+               <l>To the unſeen Light, or the Sunne</l>
+               <l>Leſſe welcome were, i'th' brighteſt noone,</l>
+               <l>When every Atome feeles a ray,</l>
+               <l>Then when't beclowded just makes Day.</l>
+               <l>Let theſe or more forſake Loves Quire,</l>
+               <l>You make the Harmony entire:</l>
+               <l>Had Nature ſome one Gemme refin'd</l>
+               <l>To th' worth and luſtre of the Kind</l>
+               <l>We could have ſpar'd each glittering ſtone,</l>
+               <l>Which boasts ſingle perfection.</l>
+            </lg>
+            <lg>
+               <l>The wanton Deity is proud,</l>
+               <l>His roofe ſuch worthy Gueſts can ſhrowd,</l>
+               <l>And would his Mother straight remove,</l>
+               <l>T' enthrone a fairer <hi>Queene</hi> of Love,</l>
+               <l>But that he feares, were this once done</l>
+               <l>He ſhould be 'ſham'd to keep his owne.</l>
+            </lg>
+            <lg>
+               <l>Since then already you poſſeſſe</l>
+               <l>What he can only wiſh were leſse,</l>
+               <l>See, he forſakes his uſeleſse Throne,</l>
+               <l>And tenders a petition;</l>
+               <pb n="33" facs="tcp:173853:19" rendition="simple:additions"/>
+               <l>That when he now and then ſupplyes</l>
+               <l>His halfe-ſpent Quiver from your Eyes,</l>
+               <l>You'l not complaine to <hi>Iove's</hi> high Court</l>
+               <l>Of his too bold, though harmelſſe ſport:</l>
+               <l>How will he tremble to be doom'd</l>
+               <l>To th' Rock, til's Liver be conſum'd?</l>
+               <l>You need not feare, hee'l ſpend too fast</l>
+               <l>This golden treaſure, and ſo waſt</l>
+               <l>Your ſtock away: thinke how much more</l>
+               <l>Would ſickneſse ſpoyle that precious ſtore;</l>
+               <l>How many beames would Care put out,</l>
+               <l>Or ſome unlucky jealous doubt,</l>
+               <l>For one, that he ſhall borrow thence?</l>
+               <l>And all theſe Fiends hee'l drive from hence.</l>
+               <l>You cannot wiſh more happineſſe t' obtain,</l>
+               <l>Then ſuch a <hi>Client,</hi> ſuch a <hi>Guardian.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>G. M.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>The Bridegroome to the Bride.</head>
+            <lg>
+               <l>COme, Lovely Maid, and let us walke</l>
+               <l>Into the Garden, where wee'l talke</l>
+               <l>Of Knotts, and flowers there, which may be</l>
+               <l>The Emblems of Loves myſtery.</l>
+            </lg>
+            <lg>
+               <pb n="34" facs="tcp:173853:20" rendition="simple:additions"/>
+               <l>See how yon hony Columbine</l>
+               <l>About that ſturdy <hi>Oake</hi> doth twine!</l>
+               <l>It tells thee, theſe <hi>embraces</hi> Be,</l>
+               <l>And <hi>Emblemes</hi> in Loves Myſtery.</l>
+            </lg>
+            <lg>
+               <l>See how yon <hi>Marigold</hi> diſplayes</l>
+               <l>It's ſelfe, and Courts <hi>Apollo's</hi> Rayes;</l>
+               <l>It tells Thee, that thou must be free,</l>
+               <l>And open; in Loves Myſtery.</l>
+            </lg>
+            <lg>
+               <l>Yon <hi>Camomill,</hi> when moſt 'tis preſt</l>
+               <l>(Obſerve faire Virgin) thrives the Beſt!</l>
+               <l>It tells Thee, 'tis the way to <hi>prove,</hi>
+               </l>
+               <l>To admit the Preſſure of thy Love.</l>
+            </lg>
+            <lg>
+               <l>See how yon <hi>Vine</hi> to the Wall Clings,</l>
+               <l>And propt, Obſerve, what fruits it brings!</l>
+               <l>Jt tels you if you'd fruitfull Bee,</l>
+               <l>You muſt be propt, as well as Shee.</l>
+            </lg>
+            <lg>
+               <l>Yon Lovely <hi>Pippin</hi> there is ſpred.</l>
+               <l>Becauſe the Sun it Kiſt, with Red.</l>
+               <l>Jt tels thee that thy Lovers Kiſſe</l>
+               <l>Will make thy Cheeke as red as His:</l>
+            </lg>
+            <lg>
+               <l>But ſtay, Faire Maid, yon <hi>Roſemary</hi>
+               </l>
+               <l>Preferres an earnest ſuit to thee,</l>
+               <l>That you, would ſtraight married bee,</l>
+               <l>And hee'l Bequeath yon <hi>ſpriggs</hi> you ſee.</l>
+            </lg>
+            <lg>
+               <pb n="35" facs="tcp:173853:20" rendition="simple:additions"/>
+               <l>Stay then no longer; Meet thy Love,</l>
+               <l>And in thy Vnion Fruitfull prove.</l>
+               <l>
+                  <hi>Virginity</hi> is litle leſſe,</l>
+               <l>Then <hi>affected Barrenneſſe.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>N. V.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>BLeſt Vnion! So have I ſeen</l>
+               <l>Two Starres, whoſe fires when having been</l>
+               <l>Divided, ſhew'd to th' Vulgar eye</l>
+               <l>Like Common People of the sky,</l>
+               <l>With rayes Conjoyn'd dart forth a blaze</l>
+               <l>So bright, as made all eyes to gaze,</l>
+               <l>And Wonders to the World diſpenſe</l>
+               <l>By this their doubled Influence.</l>
+            </lg>
+            <lg>
+               <l>Bleſt <hi>Wilts!</hi> that never joynd'ſt a paire</l>
+               <l>More good, more gentle, ſweet, or faire,</l>
+               <l>Whoſe veines ſwell with a richer flood,</l>
+               <l>Of nobler or more ancient blood.</l>
+               <l>In many Alembicks Gold's refin'd,</l>
+               <l>Before t' Elixar 'tis ſublim'd.</l>
+            </lg>
+            <closer>
+               <signed>N. W.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="36" facs="tcp:173853:21" rendition="simple:additions"/>
+            <l>LAdy, when firſt, and laſt I ſaw you ſett</l>
+            <l>Grace of Great <hi>Baintun's</hi> Table, as you'r yet.</l>
+            <l>Methought the gueſts more heartily fed by th' eye;</l>
+            <l>To ſee their meat ſo carv'd did ſatisfie.</l>
+            <l>And ſomething was in each mans thought, which told</l>
+            <l>Vntil this Instant would have bin too bold.</l>
+            <l>The generall neglect of their rich fare,</l>
+            <l>Shewed there was ſomewhat choycer, and more rare.</l>
+            <l>Not to be taſted though, ſo the chiefe diſh</l>
+            <l>Was then (what now you'le better know) a wiſh.</l>
+            <l>The wine which nimble Ganymeds ſtill brought,</l>
+            <l>Jt was not to the <hi>Veniſon,</hi> but a <hi>Thought.</hi>
+            </l>
+            <l>The Supper was a <hi>Project,</hi> and wee fed</l>
+            <l>(As if we had the <hi>Rickets</hi>) in the Head.</l>
+            <l>Then were our Fancies, (Fancy's very Fleet)</l>
+            <l>Carried I know not where with Love-wing'd Feet:</l>
+            <l>Now into This, now That, great Family,</l>
+            <l>Sometimes the <hi>Portmans, Paulets,</hi> and then Fly</l>
+            <l>Vnto Great <hi>Heles,</hi> and <hi>Smiths,</hi> and ſuch trim dances,</l>
+            <l>Vntill at laſt we reſted at Sir <hi>Francis.</hi>
+            </l>
+            <l>Here it was time to ſtay, for next like you</l>
+            <l>Something was here, that did invite our view.</l>
+            <l>Jt was a Face the Purblind God had miſs'd,</l>
+            <l>
+               <hi>Venus</hi> reſerv'd it to be private kiſs'd.</l>
+            <pb n="37" facs="tcp:173853:21" rendition="simple:additions"/>
+            <l>By her owne Lipp, and often ſmil'd, and laugh'd</l>
+            <l>To ſee this Breſt unhitt by ber Sonnes ſhaft.</l>
+            <l>The warmed youth ſtrang'd at this unknowne flame,</l>
+            <l>And knew not what it was, nor whence it came.</l>
+            <l>
+               <hi>Venus</hi> was angry at his ignorance,</l>
+            <l>And in his ſtrangeneſſe loſt her daliance.</l>
+            <l>Whereat ſhe cal'd her boy, (Hee's never farre)</l>
+            <l>To joyne that Planet unto This chaſt ſtarre.</l>
+            <l>This was his buſineſſe, his delight, his worke;</l>
+            <l>And in an inſtant by his wonted lurke,</l>
+            <l>He wounds, inflames, unites this noble Paire,</l>
+            <l>And fills them full of Love, and Free from Care.</l>
+            <l>By This We hungry were, and ſtraight fell too:</l>
+            <l>Yours is a <hi>Feaſt</hi> alike; ſo pray doe you.</l>
+            <closer>
+               <signed>E. G.</signed>
+            </closer>
+         </div>
+         <div type="eclogue">
+            <head>ECLOGUE.</head>
+            <stage>Damon: Phyllis.</stage>
+            <l>PRithee <hi>(Phyllis)</hi> Why this ſtay?</l>
+            <l>Looſe theſe Rites, and looſe the day<g ref="char:punc">▪</g>
+            </l>
+            <l>Seeſt thou, how the Sun drives on,</l>
+            <l>As if <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nt to daunce anon?</l>
+            <pb n="38" facs="tcp:173853:22" rendition="simple:additions"/>
+            <l>Or rather Poſted o're his Light,</l>
+            <l>That he might make the longer Night.</l>
+            <l>See'ſt thou how the Rivall Morne</l>
+            <l>With Roſes doth her Cheeke adorne,</l>
+            <l>As if in this her bluſhing Pride</l>
+            <l>Shee were not Bride-Maid, but the Bride?</l>
+            <l>Hearke, the ſweet Birds are Tuning, Hearke,</l>
+            <l>The warbling Thruſh, the Early Larke</l>
+            <l>New Layes from one another Borrow,</l>
+            <l>And all to bid the Bride Good Morrow.</l>
+            <l>And thus they'l Chaunt away the Light;</l>
+            <l>But meane to strip themſelves at night</l>
+            <l>Of their ſoft downe, to build a Neſt</l>
+            <l>For the moſt equall Paire to Reſt.</l>
+            <l>Why then <hi>(Phyllis)</hi> Why this ſtay?</l>
+            <l>Shall wee onely looſe the day?</l>
+            <sp>
+               <speaker>Phyllis.</speaker>
+               <l>Rather my <hi>Damon,</hi> why this Haſt?</l>
+               <l>What matter though the Rites be Paſt?</l>
+               <l>Are there ſuch joyes, ſuch Trophies wonne,</l>
+               <l>In ſeeing a Virgin-ſoule Vndone?</l>
+               <l>Kind <hi>Swayne</hi>—</l>
+            </sp>
+            <sp>
+               <speaker>Damon.</speaker>
+               <l>—Fond <hi>Nymph,</hi> Blaſpheme no more:</l>
+               <l>Natures deare ſelfe hath deeply ſwore</l>
+               <l>A stepdame hate, 'gainſt ſuch as prove</l>
+               <l>Rebells to the pure Throne of Love.</l>
+               <l>
+                  <hi>Vndone?</hi> weake Heretique! to give</l>
+               <pb n="39" facs="tcp:173853:22" rendition="simple:additions"/>
+               <l>Her loſt for that, by which wee Live!</l>
+               <l>Should all Breath Virgin thus, our Stage</l>
+               <l>Would turne to deſart in one Age.</l>
+               <l>This; 'twould Vndoe the World, and Rate</l>
+               <l>The day of Doome before it's Date.</l>
+               <l>Nay, had thy Mother taught this Geere,</l>
+               <l>Sure <hi>(Phyllis)</hi> thou haſt ne're been here.</l>
+               <l>
+                  <hi>Vndone?</hi> ſo is the Fragrant Roſe,</l>
+               <l>When Pluckt, it in her Boſome growes:</l>
+               <l>So is the Incenſe ſpoyld, when uſ'd</l>
+               <l>To perfume Heaven, becauſe 'tis Bruis'd.</l>
+               <l>Diamonds may ſhine in their Owne Mold,</l>
+               <l>Yet are more Worth when ſet in Gold.</l>
+               <l>Call'st thou then her Vndone, that's Going</l>
+               <l>The way to thrive by her Vndoing?</l>
+               <l>To Lodge two ſoules under One Roofe;</l>
+               <l>To Live two Lives, two Lives of Proofe;</l>
+               <l>To part with Maid, yet keepe that Name;</l>
+               <l>(Chaſt Wife and Virgin are the ſame)</l>
+               <l>To be all Jce, and yet all Fire;</l>
+               <l>To be Divided, yet Entire;</l>
+               <l>Bee multiply'd, yet be but One;</l>
+               <l>Call you me this to bee <hi>Vndone?</hi>
+               </l>
+               <l>Now ſhe may live as long as They</l>
+               <l>Of the Firſt Age, a Live-long Day:</l>
+               <l>And when Nine hundred yeares are told,</l>
+               <l>Shee in her ſtock ſhall ſcarce be Old.</l>
+               <pb n="40" facs="tcp:173853:23" rendition="simple:additions"/>
+               <l>To be All Riddle thus, which none</l>
+               <l>Can ſolve but Death; nor He Alone;</l>
+               <l>Jf this be loſſe, if this be Woe,</l>
+               <l>O who would not be <hi>Vndone</hi> ſo?</l>
+               <l>Without this <hi>Hymen-knot</hi> the Frame</l>
+               <l>Of Heaven and Earth had ſtood as Lame:</l>
+               <l>Both ſexes make but Man: His Ayde</l>
+               <l>Was <hi>Eve</hi> the Woman, not the Maid.</l>
+               <l>For elſe a Friend had Cheer'd his Life;</l>
+               <l>But God gives more then Friend, a Wife.</l>
+               <l>O Powerfull Charme, which once put On,</l>
+               <l>Perfects the grand Creation!</l>
+            </sp>
+            <sp>
+               <speaker>Phyllis.</speaker>
+               <l>Yet, <hi>Damon,</hi> once thou ſaid'ſt to mee</l>
+               <l>Jn Heaven we all ſhould Virgins bee.</l>
+               <l>Jf ſuch Bliſſe rests o'th' Marriage Bed,</l>
+               <l>Pray tell me, why don't Angells Wed?</l>
+               <l>Is there that Petty joy can Miſse</l>
+               <l>Them, who are ſated with All Bliſſe?</l>
+               <l>Ceaſe then to Woe with words not Even:</l>
+               <l>"<hi>The Wife Fills Earth, the Virgin Heaven.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Damon.</speaker>
+               <l>True: but yet had'ſt thou ne're been Born,</l>
+               <l>Thou ne're ſhouldſt ſee th' Eternall Morne.</l>
+               <l>How ſhould Heaven fill with Virgins Worth,</l>
+               <l>Did not Earths Wombe firſt bring them Forth?</l>
+               <l>And though in Heaven no Marrying bee;</l>
+               <l>"Yet there the <hi>Bridegroome</hi> we ſhall ſee.</l>
+            </sp>
+            <sp>
+               <pb n="41" facs="tcp:173853:23" rendition="simple:additions"/>
+               <speaker>Phyllis.</speaker>
+               <l>Thus farre you Conquer: But to be</l>
+               <l>Rob'd of my Native Liberty;</l>
+               <l>To looſe my Holy-dayes, when the <hi>Swaynes</hi>
+               </l>
+               <l>Trip it o're the Carpet Plaines;</l>
+               <l>Is this no Loſſe? Nay, there's no Gyves</l>
+               <l>(Say ſome that Try'd) to the poore Wives.</l>
+            </sp>
+            <sp>
+               <speaker>Damon.</speaker>
+               <l>Some ſuch perhaps who ſtrangely take</l>
+               <l>
+                  <hi>Girdles</hi> for <hi>Bonds;</hi> ſome ſuch who make</l>
+               <l>
+                  <hi>Garters</hi> and <hi>ſhackles</hi> one; Deare Girle,</l>
+               <l>As if this Chaine of Mother-Pearle.</l>
+               <l>Did Manacle thy Hands, that Ring</l>
+               <l>Captive thy Finger. Any thing</l>
+               <l>I'le grant my ſweet but this. No More:</l>
+               <l>There is no Life to <hi>Hymens</hi> Lore.</l>
+            </sp>
+            <sp>
+               <speaker>Phyllis.</speaker>
+               <l>Suppoſe: yet canst thou name a Doome</l>
+               <l>To the dread ſorrowes of the Wombe?</l>
+               <l>
+                  <hi>Nomaea</hi> once Counted to me</l>
+               <l>The thouſand Pangs ſhe payd for Thee:</l>
+               <l>And if Swaynes cost thus deare, what Cares,</l>
+               <l>What Throbs buy Natures Choycer Wares?</l>
+               <l>The teeming Deaths of each ſad Mother—</l>
+               <l>
+                  <hi>Damon</hi> J've done, Name ſuch another</l>
+            </sp>
+            <sp>
+               <speaker>Dam.</speaker>
+               <l>Come Come, Who would not pay ſome groanes,</l>
+               <l>To buy the pretty litle ones?</l>
+               <pb n="42" facs="tcp:173853:24" rendition="simple:additions"/>
+               <l>To be a Mother at no Rate—</l>
+               <l>Forbid it Heaven and awefull Fate.</l>
+               <l>But ſoft; They Come. So breakes the day</l>
+               <l>From mantled Night: ſo in full Ray</l>
+               <l>Shines the bright Sun, when from his bed</l>
+               <l>He donn's his Beames to deck his head.</l>
+               <l>The Roſe though faire, would ſtaine That Cheek:</l>
+               <l>Lillies look wan, nor bright, nor ſleek</l>
+               <l>To her cleare Front; where the warme ſnow</l>
+               <l>Of driven Jnnocence doth grow;</l>
+               <l>While on her Cheek the Graine and Dye</l>
+               <l>Of Bluſhing Virtue Courts her Eye.</l>
+               <l>And then her balmy Lip nor Paint</l>
+               <l>Nor ſtudied Verſe can make more quaint.</l>
+               <l>So many ſweets throng in that Face,</l>
+               <l>Each ſingle would Create a Grace.</l>
+            </sp>
+            <sp>
+               <speaker>Phyllis.</speaker>
+               <l>Yet had ſhe more (if more can meet</l>
+               <l>Jn One) more Faire, more Pure, more ſweet;</l>
+               <l>There's He that will deſerve her Tall</l>
+               <l>And Full-brim Graces, even All.</l>
+               <l>That Gate! that Looke!—Faire Maid, ne're grutch</l>
+               <l>Thy eaſy loſſe, that gain'ſt ſo much.</l>
+               <l>For if the Casket ſhine thus Cleare,</l>
+               <l>How ſhines the Gemme that lodgeth there?</l>
+               <l>Help me, my <hi>Damon.</hi> Helpe, whilſt I</l>
+               <l>
+                  <hi>Talasſio</hi> and <hi>Talasſio</hi> cry.</l>
+            </sp>
+            <sp>
+               <pb n="43" facs="tcp:173853:24" rendition="simple:additions"/>
+               <speaker>Dam.</speaker>
+               <l>But didſt thou mark that ſmile? that Kiſse?</l>
+               <l>That ſmile agen, and That, and This?</l>
+               <l>See how they mingle ſoules; and dart</l>
+               <l>Their Eyes into each others heart.</l>
+               <l>So <hi>Ioue</hi> embrac'd his Swan; that Twine</l>
+               <l>Darkens the long-fam'd Eglantine:</l>
+               <l>That living Wreath were it a Bough</l>
+               <l>Would fit ſome Conquering <hi>Caeſars</hi> Brow.</l>
+               <l>Nay <hi>Phaebus</hi> would forſweare his Tree,</l>
+               <l>One day to be halfe-bleſſed by Thee.</l>
+               <l>Seeſt thou faire <hi>Nymph?</hi>—</l>
+            </sp>
+            <sp>
+               <speaker>Phyllis.</speaker>
+               <l>—Too much to move</l>
+               <l>My ſpring of Blood: Jf this be Love,</l>
+               <l>I doe Recant: By the next Sun</l>
+               <l>I am quite Loſt, if not <hi>Undone.</hi>
+               </l>
+            </sp>
+            <closer>
+               <signed>G. W.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:173853:25" rendition="simple:additions"/>
+            <head>Bleſt Paire,</head>
+            <l>Whileſt others reare huge <hi>Temples</hi> to your praiſe,</l>
+            <l>Give a poore Swaine an <hi>Altar</hi> leave to raiſe</l>
+            <l>Of <hi>Wiſhes</hi> made. <hi>Succeſſe</hi> bee <hi>Sacrifice,</hi>
+            </l>
+            <l>And <hi>Time</hi> y<hi rend="sup">e</hi> 
+               <hi>Prieſt,</hi> your <hi>Blis</hi> ſweet <hi>gu<g ref="char:cmbAbbrStroke">̄</g>mes</hi> &amp; <hi>ſpice.</hi>
+            </l>
+            <l>So chaſt a flame, poſſeſſe each breſt,</l>
+            <l>As that which fire's the <hi>Phoenix</hi> neſt,</l>
+            <l>When ſhee her ſelfe her ſelfe doth Wooe,</l>
+            <l>Being Husband, Wife, and Jſſue too.</l>
+            <l>Sun light's ſupplyed from your own eyes,</l>
+            <l>Both being Fire, Prieſt, Sacrifice.</l>
+            <l>And may't as long and laſting burne</l>
+            <l>As did the Lampe in <hi>Tullias</hi> Vrne.</l>
+            <l>May every looke ſo gracefull prove</l>
+            <l>As that, which firſt did make you love.</l>
+            <l>May ſhee grow you, you hir, both one,</l>
+            <l>Both multiplied by Union.</l>
+            <l>May you as large an iſſue ſee</l>
+            <l>As thoſe, whom God bid Multiply.</l>
+            <l>And may each birth as eaſy paſſe,</l>
+            <l>As when you make your ſelfe ith' glaſſe.</l>
+            <l>And all ſo like the Mother bee,</l>
+            <l>That ſhee may thinke when firſt that ſhe</l>
+            <l>Beholds the pretty infants face,</l>
+            <l>The Nurſe hath only brought the glaſſe.</l>
+            <l>As years increaſe ſo may your love,</l>
+            <l>Like flames in Winter hotteſt prove.</l>
+            <l>When you're growne young in Progeny,</l>
+            <l>Sweetneſſe bee chang'd to Majeſty.</l>
+            <l>(So Trees for pleaſure and ſweet ſhade</l>
+            <l>Firſt ſet, at length were Temples made;</l>
+            <l>Delight became Religion</l>
+            <l>And love chang'd to Devotion.)</l>
+            <l>Your whole lives be one Wedding day.</l>
+            <l>(Winter's a Spring unto the Bay)</l>
+            <l>And when y'are dead, may you b'eſteemd by all</l>
+            <l>
+               <hi>Loves saints,</hi> your <hi>Hiſtories Canonicall;</hi>
+            </l>
+            <l>And <hi>Wives</hi> and <hi>Virgins</hi> yearely to your <hi>Tombe</hi>
+            </l>
+            <l>As to <hi>Loves Altar</hi> in <hi>Proceſsion</hi> come.</l>
+         </div>
+         <div type="part">
+            <pb facs="tcp:173853:25"/>
+            <p>D. I. S.</p>
+            <p>N. U. P. T. I. A. L. E. T. F. E. L. I. C. I. T. A. T. I. A. D. C. O. N. N. U. B. G. E. N. E. R. O. S. I. Ss.</p>
+            <p>
+               <hi>H. R.</hi>
+            </p>
+            <p>E. T. L. E. C. T. I. Ss.</p>
+            <p>
+               <hi>A. B.</hi>
+            </p>
+            <p>M. O. R. E. M. A. J. O. R. E. X. V. O. T. O. S. A. C. P. O. S. D. E. D. I. C. G. C.</p>
+            <pb facs="tcp:173853:26"/>
+            <pb facs="tcp:173853:26"/>
+         </div>
+      </body>
+   </text>
+</TEI>
